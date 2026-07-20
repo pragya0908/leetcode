@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pragya0908/leetcode/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/pragya0908/leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
